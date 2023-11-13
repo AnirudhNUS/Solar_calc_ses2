@@ -1,0 +1,3 @@
+450	: (L)	Length of craft in mm
+240	: (W)	Width of craft in mm
+200	: (H)	Height of craft in mm

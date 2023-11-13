@@ -1,0 +1,6 @@
+5.6	: (dhinge) 	 Diameter of the hinge in mm
+59.0	: (h2hdist) 	 Hinge to hinge distance in mm
+65.2	: (lframe) 	 Length of frame in mm
+100.0	: (wframe) 	 Width of frame in mm
+37	: (nstack) 	 Number of panels per stack
+4	: (numassmbs) 	 Number of stacks / assemblies

@@ -1,0 +1,6 @@
+296		: (ncells) 	 Total number of cells
+355.2		: (ptot) 	 Total available power in W
+6493.29		: (vtot) 	 Volume occupied by full assembly in cm^3
+16.79		: (mtot) 	 Total mass of panels in kg
+4.38		: (lenopen) 	 Length of deployed assembly in m
+0.43		: (widopen) 	 Width of deployed assembly in m
